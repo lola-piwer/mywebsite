@@ -1,0 +1,11 @@
+*{
+    color: white;
+}
+body{
+    background-color: black;
+}
+a{
+    color: rgb(79, 213, 30);
+    width: 30;
+    height: 30;
+}
